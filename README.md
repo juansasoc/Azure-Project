@@ -74,10 +74,7 @@ Stop Time	7/16/2024, 1:51:12.795 AM
 # The real-world implications  of this lab are the application of the NIST 800-61 Incident Management Lifecycle (response)
 Preparation -> Detection & Analysis -> Containment, Eradication & Recovery -> Post-Incident Activity 
 
--Preparation was initiated by ingestion of the logs into Log Analytics Workspace and Sentinel alert rules
--Detection & Analysis was done via the attack map and logs
--Containment, eradication and recovery were completed using an Incident Response Playbook
--Documentation of findings and closure of incidents within Sentinel were completed
+Preparation was initiated by ingestion of the logs into Log Analytics Workspace and Sentinel alert rules. Detection & Analysis was done via the attack map and logs. Containment, eradication and recovery were completed using an Incident Response Playbook. Documentation of findings and closure of incidents within Sentinel were completed as the last step. 
 
 
 ## Conclusion
